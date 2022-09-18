@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelRight2020", "TravelRight2020\TravelRight2020.csproj", "{32A01C8A-B9A6-46AC-8DF6-119B65A3523F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32A01C8A-B9A6-46AC-8DF6-119B65A3523F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32A01C8A-B9A6-46AC-8DF6-119B65A3523F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32A01C8A-B9A6-46AC-8DF6-119B65A3523F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32A01C8A-B9A6-46AC-8DF6-119B65A3523F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {714897F8-92CE-4F3A-B6E3-39A813DDA171}
+	EndGlobalSection
+EndGlobal
